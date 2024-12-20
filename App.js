@@ -14,7 +14,7 @@ export default function App() {
         <View style={styles.profileSection}>
           <FontAwesome name="user-circle" size={100} color="#ddd" />
           <Text style={styles.profileName}>Arshleen Kaur</Text>
-          <Text style={styles.profileInfo}>Student</Text>
+          <Text style={styles.profileInfo}>International Student </Text>
         </View>
         <View style={styles.section}>
           <MaterialIcons name="school" size={30} color="#4A90E2" />
