@@ -6,7 +6,7 @@ import { FontAwesome, Ionicons, MaterialIcons } from "@expo/vector-icons";
 export default function App() {
   return (
     <>
-      <StatusBar barStyle="light-content" backgroundColor="#4A90E2" />
+      <StatusBar barStyle="light-content" backgroundColor="#a9e3e9" />
       <View style={styles.header}>
         <Text style={styles.headerText}>Resume</Text>
       </View>
